@@ -3,9 +3,6 @@
 ### Overview
 Fresh-send.co is a multinational restaurant aggregator and food delivery company that provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants
 
-### Data Sources
-Zomato Services:the primary dataset used for this analysis is the "Zomato.csv"file
-
 ### Tools
 - Excel - Data cleaning
 - powerbi - Data Visualization
